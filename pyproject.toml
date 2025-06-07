@@ -17,7 +17,7 @@ dependencies = [
     "datasets>=3.6.0",
     "trl>=0.18.1",
     "peft>=0.15.2",
-    "smolagents>=1.17.0",
+    "smolagents[litellm,mcp]>=1.17.0",
     "duckduckgo-search>=8.0.2",
     "huggingface-hub>=0.32.4",
 ]
