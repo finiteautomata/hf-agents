@@ -20,4 +20,5 @@ dependencies = [
     "smolagents[litellm,mcp]>=1.17.0",
     "duckduckgo-search>=8.0.2",
     "huggingface-hub>=0.32.4",
+    "streamlit>=1.46.1",
 ]
